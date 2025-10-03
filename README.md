@@ -1,7 +1,5 @@
 # Based Cooking Website
 
-[https://based.cooking](https://based.cooking)
-
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
 
